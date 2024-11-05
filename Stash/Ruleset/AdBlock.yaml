@@ -1,5 +1,5 @@
 # 规则名称: AdBlock
-# 规则统计: 89570
+# 规则统计: 89569
 
 payload:
   - '+.0.myikas.com'
@@ -53807,7 +53807,6 @@ payload:
   - '+.nsteq.queensland.com'
   - '+.nster.net'
   - '+.nstoodthestatu.info'
-  - '+.nstool.netease.com'
   - '+.nstracking.com'
   - '+.nsuchasricew.com'
   - '+.nsultingcoe.net'

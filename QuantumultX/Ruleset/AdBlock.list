@@ -1,5 +1,5 @@
 # 规则名称: AdBlock
-# 规则统计: 89570
+# 规则统计: 89569
 
 HOST-SUFFIX,0.myikas.com,AdBlock
 HOST-SUFFIX,0.net.easyjet.com,AdBlock
@@ -53806,7 +53806,6 @@ HOST-SUFFIX,nstclj.rubylane.com,AdBlock
 HOST-SUFFIX,nsteq.queensland.com,AdBlock
 HOST-SUFFIX,nster.net,AdBlock
 HOST-SUFFIX,nstoodthestatu.info,AdBlock
-HOST-SUFFIX,nstool.netease.com,AdBlock
 HOST-SUFFIX,nstracking.com,AdBlock
 HOST-SUFFIX,nsuchasricew.com,AdBlock
 HOST-SUFFIX,nsultingcoe.net,AdBlock
